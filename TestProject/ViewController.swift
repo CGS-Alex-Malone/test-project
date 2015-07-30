@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         
         // New feature
         let x = 1
+        
+        // Legal issues: this is not stolen
     }
 
     override func didReceiveMemoryWarning() {
