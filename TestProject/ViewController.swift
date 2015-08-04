@@ -9,6 +9,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    func countToTen() {
+        for x in 1...10 {
+            println(x)
+        }
+    }
 
     override func viewDidLoad() {
         
@@ -19,6 +25,8 @@ class ViewController: UIViewController {
         
         // New feature
         let x = 1
+        
+        countToTen()
         
         // Legal issues: this is not stolen
     }
