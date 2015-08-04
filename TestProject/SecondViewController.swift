@@ -15,6 +15,8 @@ class SecondViewController: UIViewController {
         
         super.viewDidLoad()
         
+        println("hey");
+        
     }
     
     override func didReceiveMemoryWarning() {
